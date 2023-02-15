@@ -1,0 +1,32 @@
+.divparent{
+    height: 600px;
+    width: 100%;
+    background-color:#ff5a61;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-transform: capitalize;
+    font-size: 40px;
+    color: white;
+}
+.divheading{
+    height: 150px;
+    width: 400px;
+}
+.divdown{
+    height: 80px;
+    width: 400px;
+   font-size: 25px;
+   color: white;
+}
+img{
+    height: 40px;
+    width: 60px;
+}
+figcaption{
+    font-size: 20px;
+}
+
